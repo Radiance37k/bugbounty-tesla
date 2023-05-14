@@ -1,0 +1,17 @@
+{
+  "endpoint": "/v1/domain/teslainsuranceservices.com/subdomains",
+  "meta": {
+    "limit_reached": false
+  },
+  "subdomain_count": 8,
+  "subdomains": [
+    "stage-assets",
+    "www",
+    "stage",
+    "static-assets",
+    "13494342",
+    "pm-bounces",
+    "link",
+    "autodiscover"
+  ]
+}
